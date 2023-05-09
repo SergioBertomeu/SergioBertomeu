@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Bertomeu, and it is my profile of fullstak developer </h1>
-<h3 align="center"></h3>
+<h3 align="center">Here you can find my work that I am doing in my studies as a Multiplatform Application Developer (DAM). I am passionate about programming and how programs work. Currently, I have knowledge of HTML and CSS, JAVA, XML, Oracle, PLSQL...</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
