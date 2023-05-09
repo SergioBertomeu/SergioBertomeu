@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h1 align="center">Hi 👋, I'm Sergio Bertomeu, and it is my profile of fullstak developer </h1>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
