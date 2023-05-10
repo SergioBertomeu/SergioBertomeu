@@ -47,6 +47,9 @@ const [Nom] = {
   arquitectura: ["Disseny de microserveis", "Disseny orientat a objectes"],
   actual: "Estic ampliant les meves habilitats en desenvolupament de Full Stack amb Javascript utilitzant React, Node i Express"
 };
+
+´´´
+
 📈 Estadístiques
 Estadístiques de GitHub de Anurag
 
